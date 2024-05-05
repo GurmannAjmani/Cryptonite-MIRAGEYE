@@ -1,5 +1,5 @@
 # Team Cryptonite
-## Our submission for Productathon 2024
+## This submission placed 2nd in Productathon 2024 hosted by IIT,Roorki 2024
 
 ## Website:
 https://mirageye-demo.cryptonite.live/
